@@ -1,13 +1,13 @@
 {
   "matching_urls": [
     "https://www.lottery7h.com/#/wallet",
-    "https://www.lottery7h.com/#/wallet/Recharge",
-    "https://www.lottery7h.com/#/home/AllLotteryGames/WinGo?typeId=1",
-    "https://www.lottery7h.com/#/home/AllLotteryGames/WinGo?typeId=1",
-    "https://www.lottery7h.com/#/home/AllLotteryGames/WinGo?typeId=1",
-    "https://www.lottery7h.com/#/home/AllLotteryGames/WinGo?typeId=1"
+    "https://www.lottery7h.com/#/wallet/recharge",
+    "https://www.lottery7h.com/#/home/AllLotteryGames/WinGo?id=1",
+    "https://www.lottery7h.com/#/home/AllLotteryGames/5D?id=3",
+    "https://www.lottery7h.com/#/home/AllLotteryGames/5D?id=2",
+    "https://www.lottery7h.com/#/home/AllLotteryGames/WinTrx?id=4"
   ],
-  "deposit_url": "https://www.lottery7h.com/#/wallet/Recharge",
+  "deposit_url": "https://www.lottery7h.com/#/wallet/recharge",
   "login_url": "https://www.lottery7h.com/#/login",
   "register_url": "https://www.lottery7h.com/#/register?invitationCode=4522815549365",
   "telegram_url": "https://t.me/+4kxiiDPRLdZmNGRl",
